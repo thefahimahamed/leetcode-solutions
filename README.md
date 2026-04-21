@@ -29,4 +29,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
