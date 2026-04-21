@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
