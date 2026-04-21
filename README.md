@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,8 +20,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
