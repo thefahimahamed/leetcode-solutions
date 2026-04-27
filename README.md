@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -47,5 +48,10 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
