@@ -14,10 +14,12 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
