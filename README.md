@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -21,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -61,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
@@ -92,6 +96,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
