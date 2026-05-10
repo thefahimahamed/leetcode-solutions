@@ -33,6 +33,7 @@
 | [0005-longest-palindromic-substring](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
@@ -117,6 +118,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0322-coin-change](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
