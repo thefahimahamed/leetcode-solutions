@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -65,6 +66,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
