@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -85,6 +86,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -95,6 +97,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
