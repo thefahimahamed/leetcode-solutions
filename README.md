@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0202-happy-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Enumeration
@@ -112,6 +114,7 @@
 | [0005-longest-palindromic-substring](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0647-palindromic-substrings](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
