@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -83,6 +84,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
