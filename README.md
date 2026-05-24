@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0621-task-scheduler](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0647-palindromic-substrings](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
@@ -152,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
