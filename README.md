@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0735-asteroid-collision](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -157,6 +158,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Queue
