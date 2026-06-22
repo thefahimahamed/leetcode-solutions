@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -52,6 +53,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -205,4 +207,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
