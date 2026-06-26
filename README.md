@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -173,6 +174,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -203,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0621-task-scheduler](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
