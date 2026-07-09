@@ -38,6 +38,7 @@
 | [0875-koko-eating-bananas](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0567-permutation-in-string](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
