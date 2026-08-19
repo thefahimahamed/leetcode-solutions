@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -107,15 +108,18 @@
 | [0070-climbing-stairs](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -235,4 +239,16 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
