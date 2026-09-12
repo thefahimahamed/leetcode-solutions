@@ -111,6 +111,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0372-super-pow](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [1952-three-divisors](https://github.com/thefahimahamed/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thefahimahamed/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Enumeration
@@ -148,6 +149,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0372-super-pow](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,4 +256,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Euler's Totient Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
+## Euler's Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
