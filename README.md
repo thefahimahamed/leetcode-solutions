@@ -148,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0190-reverse-bits](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0372-super-pow](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 ## Heap (Priority Queue)
@@ -264,4 +265,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/thefahimahamed/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
